@@ -4,8 +4,10 @@
 <br>
 <div align="center">
   :rocket: Camper Android - Camp ioasys
-  :star: I’m currently learning HTML | CSS | JavaScript
+  <br>
+  :star: I’m currently learning HTML | CSS | JavaScript</div>
 </div>
+<br>
 <br>
 <div align="center">
   <a href="https://github.com/saracavalcante">
