@@ -5,7 +5,7 @@
 <div align="center">
   :rocket: Camper Android - Camp ioasys
   <br>
-  :star: I’m currently learning HTML | CSS | JavaScript</div>
+  :star: I’m currently learning Android | Kotlin</div>
 </div>
 <br>
 <br>
