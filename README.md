@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-  :rocket: Camper Android - Camp ioasys
+  :rocket: Android Developer Intern
   <br>
   :star: I’m currently learning Android | Kotlin</div>
 </div>
