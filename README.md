@@ -3,9 +3,7 @@
 </div>
 <br>
 <div align="center">
-  :rocket: Android Developer Intern
-  <br>
-  :star: I’m currently learning Android | Kotlin</div>
+  :rocket: Android Developer
 </div>
 <br>
 <br>
